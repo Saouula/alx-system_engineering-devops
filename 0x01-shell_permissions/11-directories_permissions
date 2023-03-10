@@ -1,2 +1,3 @@
 #!/bin/bash
 chmod -R 711 my-dir
+chmod -R 755 my-dir
